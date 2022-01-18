@@ -1,0 +1,2 @@
+# ExampleOfUseBassDll
+ExampleOfUseBassDll
